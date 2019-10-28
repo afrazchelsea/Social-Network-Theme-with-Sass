@@ -1,0 +1,23 @@
+{
+  "name": "socialnetwrok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.23.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afrazchelsea/Social-Network-Theme-with-Sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afrazchelsea/Social-Network-Theme-with-Sass/issues"
+  },
+  "homepage": "https://github.com/afrazchelsea/Social-Network-Theme-with-Sass#readme"
+}
